@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#e0e5ec" />
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#e0e5ec" stroke="#ffffff" stroke-width="3" />
+  <circle cx="80" cy="80" r="6" fill="#babecc" />
+  <circle cx="1120" cy="80" r="6" fill="#babecc" />
+  <circle cx="80" cy="550" r="6" fill="#babecc" />
+  <circle cx="1120" cy="550" r="6" fill="#babecc" />
+  <circle cx="120" cy="150" r="8" fill="#22c55e" />
+  <text x="142" y="157" font-family="'JetBrains Mono', monospace" font-size="20" font-weight="bold" letter-spacing="4" fill="#4a5568">SYSTEM OPERATIONAL</text>
+  <text x="100" y="320" font-family="'JetBrains Mono', monospace" font-size="72" font-weight="bold" fill="#2d3436">ALEX CARTER</text>
+  <text x="100" y="390" font-family="'JetBrains Mono', monospace" font-size="30" font-weight="bold" letter-spacing="3" fill="#ff4757">SOFTWARE ENGINEER // FREELANCER</text>
+  <text x="100" y="450" font-family="system-ui, sans-serif" font-size="24" fill="#4a5568">Scalable, reliable, and modern digital products — from first commit to production.</text>
+</svg>
