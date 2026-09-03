@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="14" fill="#e0e5ec" />
   <rect x="3" y="3" width="58" height="58" rx="11" fill="none" stroke="#ffffff" stroke-width="2" />
-  <text x="30" y="44" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="bold" text-anchor="middle" fill="#2d3436">AC</text>
+  <text x="30" y="44" font-family="'JetBrains Mono', monospace" font-size="26" font-weight="bold" text-anchor="middle" fill="#2d3436">KJ</text>
   <circle cx="51" cy="15" r="5" fill="#ff4757" />
 </svg>
