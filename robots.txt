@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# TODO: replace with the production domain before deploying.
-Sitemap: https://alexcarter.dev/sitemap.xml
+Sitemap: https://kajangid.github.io/myportfolio/sitemap.xml
