@@ -1,0 +1,1 @@
+import{l as e}from"./seo-DLGma6uz.js";import{i as t,n,t as r,v as i}from"./index-C2-Agj8R.js";var a=e();function o({children:e,className:o,delay:s=0}){return(0,a.jsx)(i.div,{className:o,initial:`hidden`,whileInView:`visible`,viewport:t,variants:n,transition:{...r,delay:s},children:e})}export{o as t};
